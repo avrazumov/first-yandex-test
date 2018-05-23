@@ -24,27 +24,26 @@ public class LocationPage {
     @FindBy(css = "ul li:nth-child(1)")
     public WebElement cityPL;
 
-
-
-    public void checboxClicking(){
+    public void londonCityChanging(){
         autoChecbox.click();
-    }
-
-    public void cityInput(String city){
-        cityField.sendKeys(city);
-    }
-
-
-    public void cityClicking(){
+        cityField.sendKeys("Лондон");
         cityPL.click();
     }
 
-    public void cityClearing(){
+    public void parisCityChanging(){
+        driver.get("https://yandex.by/tune/geo/?retpath=https%3A%2F%2Fwww.yandex.by%2F%3Fdomredir%3D1&nosync=1");
         cityField.clear();
-    }
-
-    public void parisWaiting(){
+        cityField.sendKeys("Париж");
+        cityField.clear();
+        cityField.sendKeys("Париж");
+        cityField.clear();
+        cityField.sendKeys("Париж");
+        cityField.clear();
+        cityField.sendKeys("Париж");
+        cityField.clear();
+        cityField.sendKeys("Париж");
         (new WebDriverWait(driver,200)).until(ExpectedConditions.elementToBeClickable(By.cssSelector("ul li:nth-child(1)")));
+        cityPL.click();
     }
 
 
