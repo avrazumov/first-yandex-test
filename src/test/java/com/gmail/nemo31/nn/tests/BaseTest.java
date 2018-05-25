@@ -1,4 +1,4 @@
-package com.gmail.nemo31.nn;
+package com.gmail.nemo31.nn.tests;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;

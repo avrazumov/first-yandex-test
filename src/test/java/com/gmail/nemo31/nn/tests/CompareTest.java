@@ -1,5 +1,7 @@
-package com.gmail.nemo31.nn;
+package com.gmail.nemo31.nn.tests;
 
+import com.gmail.nemo31.nn.pages.LocationPage;
+import com.gmail.nemo31.nn.pages.MainPage;
 import org.testng.Assert;
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Test;
@@ -18,12 +20,12 @@ public class CompareTest extends BaseTest {
 
     @Test
     public void comparing(){
-        locationPage.londonCityChanging();
+        locationPage.ChangingCityLondon();
         mainPage.getMoreLondonButtons();
-        ArrayList londonButtons = mainPage.moreButtonsGetText();
-        locationPage.parisCityChanging();
+        ArrayList londonButtons = mainPage.getMoreButtonsText();
+        locationPage.ChangingCityParis();
         mainPage.getMoreParisButtons();
-        ArrayList parisButtons = mainPage.moreButtonsGetText();
+        ArrayList parisButtons = mainPage.getMoreButtonsText();
         Assert.assertEquals(londonButtons,parisButtons);
     }
     }

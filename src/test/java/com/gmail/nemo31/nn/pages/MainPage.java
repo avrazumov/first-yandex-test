@@ -1,4 +1,4 @@
-package com.gmail.nemo31.nn;
+package com.gmail.nemo31.nn.pages;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
@@ -21,7 +21,7 @@ public class MainPage {
     public WebElement moreButton;
     public List<WebElement> moreButtons = new ArrayList<WebElement>();
 
-    public ArrayList moreButtonsGetText(){
+    public ArrayList getMoreButtonsText(){
         final ArrayList<String> buttonsName = new ArrayList<String>();
         for (WebElement button:moreButtons) {
             String textName = button.getText();
