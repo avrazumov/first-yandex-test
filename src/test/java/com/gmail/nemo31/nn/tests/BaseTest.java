@@ -24,7 +24,6 @@ public class BaseTest {
         driver.manage().window().maximize();
         driver.manage().timeouts().implicitlyWait(60, TimeUnit.SECONDS);
         driver.get("https://www.yandex.by");
-        driver.get("https://yandex.by/tune/geo/?retpath=https%3A%2F%2Fwww.yandex.by%2F%3Fdomredir%3D1&nosync=1");
         return driver;
     }
 
