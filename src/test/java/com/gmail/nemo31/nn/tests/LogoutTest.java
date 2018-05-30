@@ -6,25 +6,26 @@ import com.gmail.nemo31.nn.pages.MainPage;
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Test;
 
-public class LoginTest extends BaseTest {
+public class LogoutTest extends BaseTest {
     public static MainPage mainPage;
     public static LoginPage loginPage;
     public static MailMainPage mailMainPage;
 
     @BeforeClass
-    protected void initiliaze(){
+    protected void initiliaze() {
         mainPage = new MainPage(driver);
         loginPage = new LoginPage(driver);
         mailMainPage = new MailMainPage(driver);
     }
 
     @Test
-    public void logining(){
+    public void logout(){
         mainPage.clickMailButton();
         loginPage.setLogin();
         loginPage.setPassword();
         loginPage.clickLoginButton();
-        mailMainPage.getUserName();
+        mailMainPage.clickLogOut();
+        mainPage.logOutChecking();
     }
 
 

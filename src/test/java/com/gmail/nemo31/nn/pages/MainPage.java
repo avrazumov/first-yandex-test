@@ -48,7 +48,6 @@ public class MainPage {
     }
 
     public void clickMailButton(){
-        driver.get("https://www.yandex.by");
         mailButton.click();
     }
 
