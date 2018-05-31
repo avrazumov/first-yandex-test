@@ -26,6 +26,27 @@ public class MainPage {
     @FindBy (css = ".i-bem.desk-notif-card_js_inited > div > a")
     public WebElement mailButton;
 
+    @FindBy(css = ".home-arrow__tabs div a:nth-child(1)")
+    public WebElement videoButton;
+
+    @FindBy(css = ".home-arrow__tabs div a:nth-child(2)")
+    public WebElement picturesButton;
+
+    @FindBy(css = ".home-arrow__tabs div a:nth-child(3)")
+    public WebElement newsButton;
+
+    @FindBy(css = ".home-arrow__tabs div a:nth-child(4)")
+    public WebElement mapsButton;
+
+    @FindBy(css = ".home-arrow__tabs div a:nth-child(5)")
+    public WebElement marketButton;
+
+    @FindBy(css = ".home-arrow__tabs div a:nth-child(6)")
+    public WebElement translaitorButton;
+
+    @FindBy(css = ".home-arrow__tabs div a:nth-child(7)")
+    public WebElement musicButton;
+
     public ArrayList getMoreButtonsText(){
         final ArrayList<String> buttonsName = new ArrayList<String>();
         for (WebElement button:moreButtons) {
@@ -54,6 +75,34 @@ public class MainPage {
     public void logOutChecking(){
         String mainPageUrl = driver.getCurrentUrl();
         Assert.assertEquals(mainPageUrl,"https://yandex.by/");
+    }
+
+    public void clickVideoButton(){
+        videoButton.click();
+    }
+
+    public void clickPicturesButton(){
+        picturesButton.click();
+    }
+
+    public void clickNewsButton(){
+        newsButton.click();
+    }
+
+    public void clickMapsButton(){
+        mapsButton.click();
+    }
+
+    public void clickMarketButton(){
+        marketButton.click();
+    }
+
+    public void clickTranslaitorButton(){
+        translaitorButton.click();
+    }
+
+    public void clickMusicButton(){
+        musicButton.click();
     }
 
 
