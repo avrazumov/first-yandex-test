@@ -14,7 +14,7 @@ public class NavigationTest extends BaseTest {
     public static TranslaitorPage translaitorPage;
     public static MusicPage musicPage;
 
-    @BeforeClass
+    /*@BeforeClass
     protected void initiliaze() {
         mainPage = new MainPage(driver);
         videoPage = new VideoPage(driver);
@@ -42,5 +42,5 @@ public class NavigationTest extends BaseTest {
         translaitorPage.checkTranslaitorPage();
         mainPage.clickMusicButton();
         musicPage.checkMusicPage();
-    }
+    }*/
 }

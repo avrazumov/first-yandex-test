@@ -9,7 +9,7 @@ import java.util.ArrayList;
 
 public class CompareTest extends BaseTest {
 
-    /*public static MainPage mainPage;
+    public static MainPage mainPage;
     public static LocationPage locationPage;
 
     @BeforeClass
@@ -28,7 +28,7 @@ public class CompareTest extends BaseTest {
         mainPage.getMoreParisButtons();
         ArrayList parisButtons = mainPage.getMoreButtonsText();
         Assert.assertEquals(londonButtons,parisButtons);
-    }*/
+    }
     }
 
 

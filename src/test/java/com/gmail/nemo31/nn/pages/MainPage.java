@@ -47,6 +47,12 @@ public class MainPage {
     @FindBy(css = ".home-arrow__tabs div a:nth-child(7)")
     public WebElement musicButton;
 
+    @FindBy(css = ".b-langs div a span span")
+    public WebElement changeLanguageButton;
+
+    @FindBy(css = ".b-menu__item_pos_last div a")
+    public WebElement moreLanguageButton;
+
     public ArrayList getMoreButtonsText(){
         final ArrayList<String> buttonsName = new ArrayList<String>();
         for (WebElement button:moreButtons) {
@@ -77,6 +83,11 @@ public class MainPage {
         Assert.assertEquals(mainPageUrl,"https://yandex.by/");
     }
 
+    public void checkingEnglishLanguage(){
+        String languageButton = changeLanguageButton.getText();
+        Assert.assertEquals(languageButton, "Eng");
+    }
+
     public void clickVideoButton(){
         videoButton.click();
     }
@@ -104,6 +115,12 @@ public class MainPage {
     public void clickMusicButton(){
         musicButton.click();
     }
+
+    public void clickChangeLanguageButton(){
+        changeLanguageButton.click();
+        moreLanguageButton.click();
+    }
+
 
 
 
