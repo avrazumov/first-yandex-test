@@ -10,9 +10,9 @@ public class TranslaitorPage {
         this.driver = driver;
     }
     public WebDriver driver;
-    public void checkTranslaitorPage(){
+
+    public String getTranslaitorPageUrl(){
         String translaitorPageUrl = driver.getCurrentUrl();
-        Assert.assertEquals(translaitorPageUrl, "https://translate.yandex.by/");
-        driver.get("https://www.yandex.by/");
+        return translaitorPageUrl;
     }
 }

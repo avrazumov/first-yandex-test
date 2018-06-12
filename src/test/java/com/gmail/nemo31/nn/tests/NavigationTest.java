@@ -1,6 +1,7 @@
 package com.gmail.nemo31.nn.tests;
 
 import com.gmail.nemo31.nn.pages.*;
+import org.testng.Assert;
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Test;
 
@@ -14,7 +15,7 @@ public class NavigationTest extends BaseTest {
     public static TranslaitorPage translaitorPage;
     public static MusicPage musicPage;
 
-    /*@BeforeClass
+    @BeforeClass
     protected void initiliaze() {
         mainPage = new MainPage(driver);
         videoPage = new VideoPage(driver);
@@ -29,18 +30,31 @@ public class NavigationTest extends BaseTest {
     @Test
     public void navigationTest(){
         mainPage.clickVideoButton();
-        videoPage.checkVideoPage();
+        String actualVideoPageUrl = videoPage.getVideoPageUrl();
+        Assert.assertEquals(actualVideoPageUrl, "https://yandex.by/video/");
+        driver.get("https://www.yandex.by/");
         mainPage.clickPicturesButton();
-        picturesPage.checkPicturesPage();
+        String actualPicturesPageUrl = picturesPage.getPicturesPageUrl();
+        Assert.assertEquals(actualPicturesPageUrl, "https://yandex.by/images/");
+        driver.get("https://www.yandex.by/");
         mainPage.clickNewsButton();
-        newsPage.checkNewsPage();
+        String actualNewsPageUrl = newsPage.getNewsPageUrl();
+        Assert.assertEquals(actualNewsPageUrl, "https://news.yandex.by/");
+        driver.get("https://www.yandex.by/");
         mainPage.clickMapsButton();
-        mapsPage.checkMapsPage();
+        String actualMapsPageTitle = mapsPage.getMapsPageTitle();
+        Assert.assertEquals(actualMapsPageTitle, "Яндекс.Карты — подробная карта Беларуси и мира");
+        driver.get("https://www.yandex.by/");
         mainPage.clickMarketButton();
-        marketPage.checkMarketPage();
+        String actualMarketPageTitle = marketPage.getMarketPageTitle();
+        Assert.assertEquals(actualMarketPageTitle, "Яндекс.Маркет — выбор и покупка товаров из проверенных интернет-магазинов");
+        driver.get("https://www.yandex.by/");
         mainPage.clickTranslaitorButton();
-        translaitorPage.checkTranslaitorPage();
+        String actualTranslaitorPageUrl = translaitorPage.getTranslaitorPageUrl();
+        Assert.assertEquals(actualTranslaitorPageUrl, "https://translate.yandex.by/");
+        driver.get("https://www.yandex.by/");
         mainPage.clickMusicButton();
-        musicPage.checkMusicPage();
-    }*/
+        String actualMusicPageUrl = musicPage.getMusicPageUrl();
+        Assert.assertEquals(actualMusicPageUrl, "https://music.yandex.by/home");
+    }
 }

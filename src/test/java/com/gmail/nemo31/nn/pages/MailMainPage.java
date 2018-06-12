@@ -19,11 +19,6 @@ public class MailMainPage {
     @FindBy(css = "#nb-4 > div > div > div:nth-child(8) > a")
     public WebElement logOutButton;
 
-    public void getUserName(){
-        String nameUser = userName.getText();
-        Assert.assertEquals(nameUser, "AutotestUser");
-    }
-
     public void clickLogOut(){
         userName.click();
         logOutButton.click();

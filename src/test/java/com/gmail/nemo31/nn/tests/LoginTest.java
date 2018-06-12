@@ -3,6 +3,7 @@ package com.gmail.nemo31.nn.tests;
 import com.gmail.nemo31.nn.pages.LoginPage;
 import com.gmail.nemo31.nn.pages.MailMainPage;
 import com.gmail.nemo31.nn.pages.MainPage;
+import org.testng.Assert;
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Test;
 
@@ -21,11 +22,12 @@ public class LoginTest extends BaseTest {
     @Test
     public void logining(){
         mainPage.clickMailButton();
-        loginPage.setLogin();
-        loginPage.setPassword();
+        loginPage.setLogin("AutotestUser");
+        loginPage.setPassword("AutotestUser123");
         loginPage.clickLoginButton();
-        mailMainPage.getUserName();
-    }
+        String expectedResult = loginPage.getUserName();
+        Assert.assertEquals(expectedResult, "AutotestUser");
+}
 
 
 

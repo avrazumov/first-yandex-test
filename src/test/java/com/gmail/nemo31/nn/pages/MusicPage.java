@@ -10,8 +10,8 @@ public class MusicPage {
         this.driver = driver;
     }
     public WebDriver driver;
-    public void checkMusicPage(){
+    public String getMusicPageUrl(){
         String musicPageUrl = driver.getCurrentUrl();
-        Assert.assertEquals(musicPageUrl, "https://music.yandex.by/home");
+        return musicPageUrl;
     }
 }

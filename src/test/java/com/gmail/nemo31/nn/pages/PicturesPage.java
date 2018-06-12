@@ -11,9 +11,8 @@ public class PicturesPage {
     }
     public WebDriver driver;
 
-    public void checkPicturesPage(){
+    public String getPicturesPageUrl(){
         String picturesPageUrl = driver.getCurrentUrl();
-        Assert.assertEquals(picturesPageUrl, "https://yandex.by/images/");
-        driver.get("https://www.yandex.by/");
+        return picturesPageUrl;
     }
 }

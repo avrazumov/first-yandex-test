@@ -11,9 +11,8 @@ public class VideoPage {
     }
     public WebDriver driver;
 
-    public void checkVideoPage(){
+    public String getVideoPageUrl(){
         String videoPageUrl = driver.getCurrentUrl();
-        Assert.assertEquals(videoPageUrl, "https://yandex.by/video/");
-        driver.get("https://www.yandex.by/");
+        return videoPageUrl;
     }
 }

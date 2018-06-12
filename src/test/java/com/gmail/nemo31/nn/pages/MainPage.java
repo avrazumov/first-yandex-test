@@ -78,14 +78,14 @@ public class MainPage {
         mailButton.click();
     }
 
-    public void logOutChecking(){
+    public String getMainPageUrl(){
         String mainPageUrl = driver.getCurrentUrl();
-        Assert.assertEquals(mainPageUrl,"https://yandex.by/");
+        return mainPageUrl;
     }
 
-    public void checkingEnglishLanguage(){
+    public String getEnglishLanguageLabel(){
         String languageButton = changeLanguageButton.getText();
-        Assert.assertEquals(languageButton, "Eng");
+        return languageButton;
     }
 
     public void clickVideoButton(){

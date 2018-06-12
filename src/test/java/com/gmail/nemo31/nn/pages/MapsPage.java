@@ -10,9 +10,9 @@ public class MapsPage {
         this.driver = driver;
     }
     public WebDriver driver;
-    public void checkMapsPage(){
-        String mapsPageUrl = driver.getTitle();
-        Assert.assertEquals(mapsPageUrl, "Яндекс.Карты — подробная карта Беларуси и мира");
-        driver.get("https://www.yandex.by/");
+
+    public String getMapsPageTitle(){
+        String mapsPageTitle = driver.getTitle();
+        return mapsPageTitle;
     }
 }

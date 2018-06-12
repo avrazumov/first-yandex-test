@@ -11,9 +11,8 @@ public class NewsPage {
     }
     public WebDriver driver;
 
-    public void checkNewsPage(){
+    public String getNewsPageUrl(){
         String newsPageUrl = driver.getCurrentUrl();
-        Assert.assertEquals(newsPageUrl, "https://news.yandex.by/");
-        driver.get("https://www.yandex.by/");
+        return newsPageUrl;
     }
 }

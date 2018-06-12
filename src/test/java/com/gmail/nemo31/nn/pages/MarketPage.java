@@ -10,9 +10,10 @@ public class MarketPage {
         this.driver = driver;
     }
     public WebDriver driver;
-    public void checkMarketPage(){
-        String marketPageUrl = driver.getTitle();
-        Assert.assertEquals(marketPageUrl, "Яндекс.Маркет — выбор и покупка товаров из проверенных интернет-магазинов");
-        driver.get("https://www.yandex.by/");
-    }
+
+    public String getMarketPageTitle(){
+        String marketPageTitle = driver.getTitle();
+        return marketPageTitle;
+
+}
 }
