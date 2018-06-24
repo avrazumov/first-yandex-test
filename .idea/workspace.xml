@@ -3,33 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="f4153e95-ddf9-4db7-b018-c2981d61dd6d" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/gmail/nemo31/nn/pages/LocationPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/gmail/nemo31/nn/pages/LocationPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/gmail/nemo31/nn/tests/CompareTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/gmail/nemo31/nn/tests/CompareTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/gmail/nemo31/nn/tests/InvalidLogin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/gmail/nemo31/nn/tests/InvalidLogin.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/gmail/nemo31/nn/tests/LanguageChangingTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/gmail/nemo31/nn/tests/LanguageChangingTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/gmail/nemo31/nn/tests/LoginTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/gmail/nemo31/nn/tests/LoginTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/gmail/nemo31/nn/tests/LogoutTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/gmail/nemo31/nn/tests/LogoutTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/gmail/nemo31/nn/tests/NavigationTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/gmail/nemo31/nn/tests/NavigationTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/gmail/nemo31/nn/pages/LanguageSettingsPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/gmail/nemo31/nn/pages/LanguageSettingsPage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/gmail/nemo31/nn/pages/LocationPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/gmail/nemo31/nn/pages/LocationPage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/gmail/nemo31/nn/pages/LoginPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/gmail/nemo31/nn/pages/LoginPage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/gmail/nemo31/nn/pages/MailMainPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/gmail/nemo31/nn/pages/MailMainPage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/gmail/nemo31/nn/pages/MainPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/gmail/nemo31/nn/pages/MainPage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/gmail/nemo31/nn/pages/MapsPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/gmail/nemo31/nn/pages/MapsPage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/gmail/nemo31/nn/pages/MarketPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/gmail/nemo31/nn/pages/MarketPage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/gmail/nemo31/nn/pages/MusicPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/gmail/nemo31/nn/pages/MusicPage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/gmail/nemo31/nn/pages/NewsPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/gmail/nemo31/nn/pages/NewsPage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/gmail/nemo31/nn/pages/PicturesPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/gmail/nemo31/nn/pages/PicturesPage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/gmail/nemo31/nn/pages/TranslaitorPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/gmail/nemo31/nn/pages/TranslaitorPage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/gmail/nemo31/nn/pages/VideoPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/gmail/nemo31/nn/pages/VideoPage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/gmail/nemo31/nn/tests/BaseTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/gmail/nemo31/nn/tests/BaseTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/gmail/nemo31/nn/tests/CompareTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/gmail/nemo31/nn/tests/CompareTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/gmail/nemo31/nn/tests/InvalidLogin.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/gmail/nemo31/nn/tests/InvalidLogin.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/gmail/nemo31/nn/tests/LanguageChangingTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/gmail/nemo31/nn/tests/LanguageChangingTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/gmail/nemo31/nn/tests/LoginTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/gmail/nemo31/nn/tests/LoginTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/gmail/nemo31/nn/tests/LogoutTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/gmail/nemo31/nn/tests/LogoutTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/gmail/nemo31/nn/tests/NavigationTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/gmail/nemo31/nn/tests/NavigationTest.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -46,7 +19,7 @@
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
+            <state relative-caret-position="1683">
               <caret line="99" selection-start-line="99" selection-end-line="99" />
             </state>
           </provider>
@@ -55,8 +28,8 @@
       <file leaf-file-name="CompareTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/gmail/nemo31/nn/tests/CompareTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="343">
-              <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
+            <state relative-caret-position="442">
+              <caret line="32" selection-start-line="32" selection-end-line="32" />
             </state>
           </provider>
         </entry>
@@ -64,8 +37,8 @@
       <file leaf-file-name="InvalidLogin.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/gmail/nemo31/nn/tests/InvalidLogin.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="434">
-              <caret line="35" column="34" lean-forward="true" selection-start-line="35" selection-start-column="34" selection-end-line="35" selection-end-column="34" />
+            <state relative-caret-position="493">
+              <caret line="35" column="34" selection-start-line="35" selection-start-column="34" selection-end-line="35" selection-end-column="34" />
             </state>
           </provider>
         </entry>
@@ -73,7 +46,7 @@
       <file leaf-file-name="LogoutTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/gmail/nemo31/nn/tests/LogoutTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="332">
+            <state relative-caret-position="289">
               <caret line="23" column="27" selection-start-line="23" selection-start-column="27" selection-end-line="23" selection-end-column="27" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -85,8 +58,8 @@
       <file leaf-file-name="LoginTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/gmail/nemo31/nn/tests/LoginTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" column="42" lean-forward="true" selection-start-line="18" selection-start-column="42" selection-end-line="18" selection-end-column="42" />
+            <state relative-caret-position="71">
+              <caret line="18" column="42" selection-start-line="18" selection-start-column="42" selection-end-line="18" selection-end-column="42" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -97,8 +70,8 @@
       <file leaf-file-name="NavigationTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/gmail/nemo31/nn/tests/NavigationTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="37">
-              <caret line="34" column="45" lean-forward="true" selection-start-line="34" selection-start-column="45" selection-end-line="34" selection-end-column="45" />
+            <state relative-caret-position="527">
+              <caret line="34" column="45" selection-start-line="34" selection-start-column="45" selection-end-line="34" selection-end-column="45" />
             </state>
           </provider>
         </entry>
@@ -175,7 +148,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
       <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
@@ -224,6 +196,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -249,7 +222,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.C:/Users/HomelyPC/IdeaProjects/yandex-first-test/testng.xml">
+  <component name="RunManager" selected="TestNG.C:/IdeaProjects/first-yandex-test/testng.xml">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -269,28 +242,30 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="C:/Users/HomelyPC/IdeaProjects/yandex-first-test/testng.xml" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="C:/IdeaProjects/first-yandex-test/testng.xml" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <module name="yandex-first-test" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="GROUP_NAME" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
       <option name="TEST_OBJECT" value="SUITE" />
       <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="OUTPUT_DIRECTORY" />
+      <option name="PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" value="" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="TEST_SEARCH_SCOPE">
         <value defaultName="singleModule" />
       </option>
       <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
+      <option name="PROPERTIES_FILE" value="" />
       <properties />
-      <listeners />
+      <listeners>
+        <listener class="io.qameta.allure.testng.AllureTestNg" />
+      </listeners>
     </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -339,11 +314,11 @@
     </configuration>
     <list>
       <item itemvalue="TestNG.compare-test" />
-      <item itemvalue="TestNG.C:/Users/HomelyPC/IdeaProjects/yandex-first-test/testng.xml" />
+      <item itemvalue="TestNG.C:/IdeaProjects/first-yandex-test/testng.xml" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.C:/Users/HomelyPC/IdeaProjects/yandex-first-test/testng.xml" />
+        <item itemvalue="TestNG.C:/IdeaProjects/first-yandex-test/testng.xml" />
       </list>
     </recent_temporary>
   </component>
@@ -361,9 +336,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="C__Users_HomelyPC_IdeaProjects_yandex-first-test_testng_xml - 2018.06.08 at 20h 30m 08s.xml">
-      <configuration name="C:/Users/HomelyPC/IdeaProjects/yandex-first-test/testng.xml" configurationId="TestNG" />
-    </history-entry>
     <history-entry file="C__Users_HomelyPC_IdeaProjects_yandex-first-test_testng_xml - 2018.06.08 at 20h 56m 20s.xml">
       <configuration name="C:/Users/HomelyPC/IdeaProjects/yandex-first-test/testng.xml" configurationId="TestNG" />
     </history-entry>
@@ -391,6 +363,9 @@
     <history-entry file="C__Users_HomelyPC_IdeaProjects_yandex-first-test_testng_xml - 2018.06.18 at 22h 07m 49s.xml">
       <configuration name="C:/Users/HomelyPC/IdeaProjects/yandex-first-test/testng.xml" configurationId="TestNG" />
     </history-entry>
+    <history-entry file="C__IdeaProjects_first-yandex-test_testng_xml - 2018.06.19 at 23h 31m 49s.xml">
+      <configuration name="C:/IdeaProjects/first-yandex-test/testng.xml" configurationId="TestNG" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -408,7 +383,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="6" />
       <window_info id="Designer" order="3" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19399707" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19399707" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="4" />
@@ -735,7 +710,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
+        <state relative-caret-position="1683">
           <caret line="99" selection-start-line="99" selection-end-line="99" />
         </state>
       </provider>
@@ -744,16 +719,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
           <caret line="34" column="37" selection-start-line="34" selection-start-column="37" selection-end-line="34" selection-end-column="37" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/gmail/nemo31/nn/tests/CompareTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="343">
-          <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
+        <state relative-caret-position="442">
+          <caret line="32" selection-start-line="32" selection-end-line="32" />
         </state>
       </provider>
     </entry>
@@ -766,21 +738,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/gmail/nemo31/nn/tests/NavigationTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="37">
-          <caret line="34" column="45" lean-forward="true" selection-start-line="34" selection-start-column="45" selection-end-line="34" selection-end-column="45" />
+        <state relative-caret-position="527">
+          <caret line="34" column="45" selection-start-line="34" selection-start-column="45" selection-end-line="34" selection-end-column="45" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/gmail/nemo31/nn/tests/InvalidLogin.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="434">
-          <caret line="35" column="34" lean-forward="true" selection-start-line="35" selection-start-column="34" selection-end-line="35" selection-end-column="34" />
+        <state relative-caret-position="493">
+          <caret line="35" column="34" selection-start-line="35" selection-start-column="34" selection-end-line="35" selection-end-column="34" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/gmail/nemo31/nn/tests/LogoutTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="332">
+        <state relative-caret-position="289">
           <caret line="23" column="27" selection-start-line="23" selection-start-column="27" selection-end-line="23" selection-end-column="27" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -790,8 +762,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/gmail/nemo31/nn/tests/LoginTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="42" lean-forward="true" selection-start-line="18" selection-start-column="42" selection-end-line="18" selection-end-column="42" />
+        <state relative-caret-position="71">
+          <caret line="18" column="42" selection-start-line="18" selection-start-column="42" selection-end-line="18" selection-end-column="42" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
