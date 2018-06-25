@@ -2,6 +2,7 @@ package com.gmail.nemo31.nn.tests;
 
 import com.gmail.nemo31.nn.pages.LocationPage;
 import com.gmail.nemo31.nn.pages.MainPage;
+import io.qameta.allure.Description;
 import org.testng.Assert;
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Test;
@@ -19,7 +20,7 @@ public class CompareTest extends BaseTest {
         driver.get("https://yandex.by/tune/geo/?retpath=https%3A%2F%2Fwww.yandex.by%2F%3Fdomredir%3D1&nosync=1");
     }
 
-    @Test
+    @Test(priority = 0,description = "Compare buttons from More dropdown menu after location changing from London to Paris")
     public void comparing(){
         locationPage.ChangingCityLondon();
         mainPage.getMoreLondonButtons();
@@ -29,6 +30,7 @@ public class CompareTest extends BaseTest {
         ArrayList parisButtons = mainPage.getMoreButtonsText();
         Assert.assertEquals(londonButtons,parisButtons);
     }
+
     }
 
 

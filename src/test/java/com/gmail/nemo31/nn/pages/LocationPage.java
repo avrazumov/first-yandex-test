@@ -1,5 +1,6 @@
 package com.gmail.nemo31.nn.pages;
 
+import io.qameta.allure.Step;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
@@ -24,12 +25,14 @@ public class LocationPage {
     @FindBy(css = "ul li:nth-child(1)")
     public WebElement firstCityFromList;
 
+    @Step("Changing location to London")
     public void ChangingCityLondon(){
         autoCityLocationChecbox.click();
         cityInputField.sendKeys("Лондон");
         firstCityFromList.click();
     }
 
+    @Step("Changing location to Paris")
     public void ChangingCityParis(){
         driver.get("https://yandex.by/tune/geo/?retpath=https%3A%2F%2Fwww.yandex.by%2F%3Fdomredir%3D1&nosync=1");
         cityInputField.clear();

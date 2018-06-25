@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="1" verbose="0" name="Failed suite [Surefire suite]">
+  <test thread-count="1" verbose="0" name="Surefire test(failed)">
+    <classes>
+      <class name="com.gmail.nemo31.nn.tests.CompareTest">
+        <methods>
+          <include name="initiliaze"/>
+          <include name="getDriver"/>
+          <include name="tearDown"/>
+          <include name="comparing"/>
+        </methods>
+      </class> <!-- com.gmail.nemo31.nn.tests.CompareTest -->
+      <class name="com.gmail.nemo31.nn.tests.LoginTest">
+        <methods>
+          <include name="logining"/>
+          <include name="getDriver"/>
+          <include name="tearDown"/>
+          <include name="initiliaze"/>
+        </methods>
+      </class> <!-- com.gmail.nemo31.nn.tests.LoginTest -->
+      <class name="com.gmail.nemo31.nn.tests.LanguageChangingTest">
+        <methods>
+          <include name="languageChanging"/>
+          <include name="initiliaze"/>
+          <include name="getDriver"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.gmail.nemo31.nn.tests.LanguageChangingTest -->
+      <class name="com.gmail.nemo31.nn.tests.NavigationTest">
+        <methods>
+          <include name="getDriver"/>
+          <include name="initiliaze"/>
+          <include name="tearDown"/>
+          <include name="navigationTest"/>
+        </methods>
+      </class> <!-- com.gmail.nemo31.nn.tests.NavigationTest -->
+      <class name="com.gmail.nemo31.nn.tests.LogoutTest">
+        <methods>
+          <include name="initiliaze"/>
+          <include name="getDriver"/>
+          <include name="tearDown"/>
+          <include name="logout"/>
+        </methods>
+      </class> <!-- com.gmail.nemo31.nn.tests.LogoutTest -->
+    </classes>
+  </test> <!-- Surefire test(failed) -->
+</suite> <!-- Failed suite [Surefire suite] -->

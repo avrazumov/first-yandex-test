@@ -27,7 +27,7 @@ public class NavigationTest extends BaseTest {
         musicPage = new MusicPage(driver);
     }
 
-    @Test
+    @Test(priority = 1,description = "Main menu navigation checking")
     public void navigationTest(){
         mainPage.clickVideoButton();
         String actualVideoPageUrl = videoPage.getVideoPageUrl();

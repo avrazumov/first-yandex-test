@@ -3,27 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="f4153e95-ddf9-4db7-b018-c2981d61dd6d" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/gmail/nemo31/nn/pages/LoginPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/gmail/nemo31/nn/pages/LoginPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/gmail/nemo31/nn/pages/MailMainPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/gmail/nemo31/nn/pages/MailMainPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/gmail/nemo31/nn/pages/MainPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/gmail/nemo31/nn/pages/MainPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/gmail/nemo31/nn/pages/MapsPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/gmail/nemo31/nn/pages/MapsPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/gmail/nemo31/nn/pages/MarketPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/gmail/nemo31/nn/pages/MarketPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/gmail/nemo31/nn/pages/MusicPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/gmail/nemo31/nn/pages/MusicPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/gmail/nemo31/nn/pages/NewsPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/gmail/nemo31/nn/pages/NewsPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/gmail/nemo31/nn/pages/PicturesPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/gmail/nemo31/nn/pages/PicturesPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/gmail/nemo31/nn/pages/TranslaitorPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/gmail/nemo31/nn/pages/TranslaitorPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/gmail/nemo31/nn/pages/VideoPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/gmail/nemo31/nn/pages/VideoPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/gmail/nemo31/nn/tests/InvalidLogin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/gmail/nemo31/nn/tests/InvalidLogin.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/gmail/nemo31/nn/tests/LanguageChangingTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/gmail/nemo31/nn/tests/LanguageChangingTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/gmail/nemo31/nn/tests/LoginTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/gmail/nemo31/nn/tests/LoginTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/gmail/nemo31/nn/tests/LogoutTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/gmail/nemo31/nn/tests/LogoutTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/gmail/nemo31/nn/tests/NavigationTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/gmail/nemo31/nn/tests/NavigationTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/gmail/nemo31/nn/pages/LoginPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/gmail/nemo31/nn/pages/LoginPage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/gmail/nemo31/nn/tests/InvalidLogin.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/gmail/nemo31/nn/tests/InvalidLogin.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/gmail/nemo31/nn/tests/LoginTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/gmail/nemo31/nn/tests/LoginTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/gmail/nemo31/nn/tests/LogoutTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/gmail/nemo31/nn/tests/LogoutTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/gmail/nemo31/nn/tests/NavigationTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/gmail/nemo31/nn/tests/NavigationTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yandex-first-test.iml" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -34,54 +13,65 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ExportTestResults" outputFolder="$PROJECT_DIR$" openResultsInEditor="true" userTempatePath="" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="LoginTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/gmail/nemo31/nn/tests/LoginTest.java">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="510">
-              <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="1683">
+              <caret line="99" selection-start-line="99" selection-end-line="99" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LoginPage.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/gmail/nemo31/nn/pages/LoginPage.java">
+      <file leaf-file-name="CompareTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/gmail/nemo31/nn/tests/CompareTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="27" column="31" selection-start-line="27" selection-start-column="31" selection-end-line="27" selection-end-column="31" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="442">
+              <caret line="32" selection-start-line="32" selection-end-line="32" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MainPage.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/gmail/nemo31/nn/pages/MainPage.java">
+      <file leaf-file-name="InvalidLogin.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/gmail/nemo31/nn/tests/InvalidLogin.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="182">
-              <caret line="82" column="27" selection-start-line="82" selection-start-column="27" selection-end-line="82" selection-end-column="27" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#2762#2763#0" expanded="true" />
-                <element signature="e#2796#2797#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="493">
+              <caret line="35" column="34" selection-start-line="35" selection-start-column="34" selection-end-line="35" selection-end-column="34" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LogoutTest.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="LogoutTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/gmail/nemo31/nn/tests/LogoutTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="22" column="25" lean-forward="true" selection-start-line="22" selection-start-column="25" selection-end-line="22" selection-end-column="25" />
+            <state relative-caret-position="289">
+              <caret line="23" column="27" selection-start-line="23" selection-start-column="27" selection-end-line="23" selection-end-column="27" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LoginTest.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/gmail/nemo31/nn/tests/LoginTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="71">
+              <caret line="18" column="42" selection-start-line="18" selection-start-column="42" selection-end-line="18" selection-end-column="42" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="NavigationTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/gmail/nemo31/nn/tests/NavigationTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="527">
+              <caret line="34" column="45" selection-start-line="34" selection-start-column="45" selection-end-line="34" selection-end-column="45" />
             </state>
           </provider>
         </entry>
@@ -101,17 +91,13 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/testng.xml" />
         <option value="$PROJECT_DIR$/src/test/java/com/gmail/nemo31/nn/BaseTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/gmail/nemo31/nn/MainPage.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/gmail/nemo31/nn/LocationPage.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/gmail/nemo31/nn/CompareTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/gmail/nemo31/nn/pages/LanguageSettingsPage.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/gmail/nemo31/nn/tests/CompareTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/gmail/nemo31/nn/tests/BaseTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/gmail/nemo31/nn/tests/LoginTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/gmail/nemo31/nn/tests/InvalidLogin.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/gmail/nemo31/nn/pages/LoginPage.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/gmail/nemo31/nn/pages/VideoPage.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/gmail/nemo31/nn/pages/PicturesPage.java" />
@@ -120,11 +106,16 @@
         <option value="$PROJECT_DIR$/src/test/java/com/gmail/nemo31/nn/pages/MarketPage.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/gmail/nemo31/nn/pages/TranslaitorPage.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/gmail/nemo31/nn/pages/MusicPage.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/gmail/nemo31/nn/tests/NavigationTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/gmail/nemo31/nn/tests/LanguageChangingTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/gmail/nemo31/nn/pages/MailMainPage.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/gmail/nemo31/nn/pages/MainPage.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/com/gmail/nemo31/nn/tests/CompareTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/gmail/nemo31/nn/pages/LocationPage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/gmail/nemo31/nn/tests/LanguageChangingTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/gmail/nemo31/nn/tests/NavigationTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/gmail/nemo31/nn/tests/InvalidLogin.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/gmail/nemo31/nn/tests/LogoutTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/gmail/nemo31/nn/tests/LoginTest.java" />
       </list>
     </option>
   </component>
@@ -146,7 +137,7 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1382" />
@@ -158,8 +149,6 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
-      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -200,21 +189,14 @@
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="nn" type="462c0819:PsiDirectoryNode" />
-              <item name="pages" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="first-yandex-test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="first-yandex-test" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="nn" type="462c0819:PsiDirectoryNode" />
               <item name="tests" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -240,7 +222,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.C:/Users/HomelyPC/IdeaProjects/yandex-first-test/testng.xml">
+  <component name="RunManager" selected="TestNG.C:/IdeaProjects/first-yandex-test/testng.xml">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -260,16 +242,47 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="C:/Users/HomelyPC/IdeaProjects/yandex-first-test/testng.xml" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="C:/IdeaProjects/first-yandex-test/testng.xml" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <module name="yandex-first-test" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners>
+        <listener class="io.qameta.allure.testng.AllureTestNg" />
+      </listeners>
+    </configuration>
+    <configuration name="LoginTest" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="yandex-first-test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.gmail.nemo31.nn.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" value="com.gmail.nemo31.nn.tests" />
+      <option name="MAIN_CLASS_NAME" value="com.gmail.nemo31.nn.tests.LoginTest" />
       <option name="METHOD_NAME" />
       <option name="GROUP_NAME" />
-      <option name="TEST_OBJECT" value="SUITE" />
+      <option name="TEST_OBJECT" value="CLASS" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
@@ -330,11 +343,13 @@
     </configuration>
     <list>
       <item itemvalue="TestNG.compare-test" />
-      <item itemvalue="TestNG.C:/Users/HomelyPC/IdeaProjects/yandex-first-test/testng.xml" />
+      <item itemvalue="TestNG.C:/IdeaProjects/first-yandex-test/testng.xml" />
+      <item itemvalue="TestNG.LoginTest" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.C:/Users/HomelyPC/IdeaProjects/yandex-first-test/testng.xml" />
+        <item itemvalue="TestNG.C:/IdeaProjects/first-yandex-test/testng.xml" />
+        <item itemvalue="TestNG.LoginTest" />
       </list>
     </recent_temporary>
   </component>
@@ -352,18 +367,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="C__Users_HomelyPC_IdeaProjects_yandex-first-test_testng_xml - 2018.06.08 at 20h 09m 41s.xml">
-      <configuration name="C:/Users/HomelyPC/IdeaProjects/yandex-first-test/testng.xml" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="C__Users_HomelyPC_IdeaProjects_yandex-first-test_testng_xml - 2018.06.08 at 20h 20m 36s.xml">
-      <configuration name="C:/Users/HomelyPC/IdeaProjects/yandex-first-test/testng.xml" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="C__Users_HomelyPC_IdeaProjects_yandex-first-test_testng_xml - 2018.06.08 at 20h 22m 56s.xml">
-      <configuration name="C:/Users/HomelyPC/IdeaProjects/yandex-first-test/testng.xml" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="C__Users_HomelyPC_IdeaProjects_yandex-first-test_testng_xml - 2018.06.08 at 20h 30m 08s.xml">
-      <configuration name="C:/Users/HomelyPC/IdeaProjects/yandex-first-test/testng.xml" configurationId="TestNG" />
-    </history-entry>
     <history-entry file="C__Users_HomelyPC_IdeaProjects_yandex-first-test_testng_xml - 2018.06.08 at 20h 56m 20s.xml">
       <configuration name="C:/Users/HomelyPC/IdeaProjects/yandex-first-test/testng.xml" configurationId="TestNG" />
     </history-entry>
@@ -382,25 +385,35 @@
     <history-entry file="C__Users_HomelyPC_IdeaProjects_yandex-first-test_testng_xml - 2018.06.12 at 12h 39m 49s.xml">
       <configuration name="C:/Users/HomelyPC/IdeaProjects/yandex-first-test/testng.xml" configurationId="TestNG" />
     </history-entry>
+    <history-entry file="C__Users_HomelyPC_IdeaProjects_yandex-first-test_testng_xml - 2018.06.15 at 16h 37m 06s.xml">
+      <configuration name="C:/Users/HomelyPC/IdeaProjects/yandex-first-test/testng.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="C__Users_HomelyPC_IdeaProjects_yandex-first-test_testng_xml - 2018.06.15 at 16h 43m 53s.xml">
+      <configuration name="C:/Users/HomelyPC/IdeaProjects/yandex-first-test/testng.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="C__Users_HomelyPC_IdeaProjects_yandex-first-test_testng_xml - 2018.06.18 at 22h 07m 49s.xml">
+      <configuration name="C:/Users/HomelyPC/IdeaProjects/yandex-first-test/testng.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="C__IdeaProjects_first-yandex-test_testng_xml - 2018.06.19 at 23h 31m 49s.xml">
+      <configuration name="C:/IdeaProjects/first-yandex-test/testng.xml" configurationId="TestNG" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.31319556" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" weight="0.32838285" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" weight="0.32750398" />
       <window_info anchor="right" id="Maven Projects" order="6" weight="0.32980332" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.31319556" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.31160572" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="6" />
       <window_info id="Designer" order="3" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19472913" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19399707" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="4" />
@@ -413,6 +426,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.31243357" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -428,9 +442,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="442">
           <caret line="26" column="52" selection-start-line="26" selection-start-column="52" selection-end-line="26" selection-end-column="52" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -438,11 +449,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
           <caret line="14" column="20" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="91" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#2762#2763#0" expanded="true" />
-            <element signature="e#2796#2797#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -457,9 +463,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="969">
           <caret line="57" column="40" selection-start-line="57" selection-start-column="40" selection-end-line="57" selection-end-column="40" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -467,9 +470,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="442">
           <caret line="26" column="52" selection-start-line="26" selection-start-column="52" selection-end-line="26" selection-end-column="52" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -477,11 +477,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
           <caret line="14" column="20" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="91" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#2762#2763#0" expanded="true" />
-            <element signature="e#2796#2797#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -496,9 +491,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="952">
           <caret line="56" column="34" selection-start-line="56" selection-start-column="34" selection-end-line="56" selection-end-column="34" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -506,9 +498,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
           <caret line="26" column="52" selection-start-line="26" selection-start-column="52" selection-end-line="26" selection-end-column="52" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -516,11 +505,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="15" column="33" lean-forward="true" selection-start-line="15" selection-start-column="33" selection-end-line="15" selection-end-column="33" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#2762#2763#0" expanded="true" />
-            <element signature="e#2796#2797#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -535,9 +519,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="748">
           <caret line="51" column="38" selection-start-line="51" selection-start-column="38" selection-end-line="51" selection-end-column="38" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -545,9 +526,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="442">
           <caret line="26" column="52" selection-start-line="26" selection-start-column="52" selection-end-line="26" selection-end-column="52" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -555,11 +533,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1377">
           <caret line="81" selection-start-line="81" selection-end-line="81" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#2762#2763#0" expanded="true" />
-            <element signature="e#2796#2797#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -574,9 +547,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1003">
           <caret line="59" column="38" lean-forward="true" selection-start-line="59" selection-start-column="38" selection-end-line="59" selection-end-column="38" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -584,9 +554,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="595">
           <caret line="35" column="30" lean-forward="true" selection-start-line="35" selection-start-column="30" selection-end-line="35" selection-end-column="30" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -594,11 +561,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="15" column="33" lean-forward="true" selection-start-line="15" selection-start-column="33" selection-end-line="15" selection-end-column="33" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#2762#2763#0" expanded="true" />
-            <element signature="e#2796#2797#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -606,9 +568,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="510">
           <caret line="30" column="41" lean-forward="true" selection-start-line="30" selection-start-column="41" selection-end-line="30" selection-end-column="41" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -623,9 +582,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="680">
           <caret line="40" selection-start-line="40" selection-end-line="40" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -633,11 +589,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
           <caret line="17" selection-start-line="17" selection-end-line="17" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#2762#2763#0" expanded="true" />
-            <element signature="e#2796#2797#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -652,9 +603,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
           <caret line="3" selection-start-line="3" selection-end-line="3" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -669,9 +617,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="493">
           <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -700,11 +645,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
           <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#2762#2763#0" expanded="true" />
-            <element signature="e#2796#2797#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -715,27 +655,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="23" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/gmail/nemo31/nn/pages/LocationPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="28" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/gmail/nemo31/nn/tests/BaseTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
           <caret line="25" column="8" selection-start-line="25" selection-start-column="8" selection-end-line="25" selection-end-column="44" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -750,9 +673,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="15" column="28" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -788,9 +708,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
           <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -798,56 +715,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
           <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/gmail/nemo31/nn/tests/NavigationTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="513">
-          <caret line="56" column="52" selection-start-line="56" selection-start-column="52" selection-end-line="56" selection-end-column="52" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/gmail/nemo31/nn/tests/CompareTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="12" column="44" selection-start-line="12" selection-start-column="44" selection-end-line="12" selection-end-column="44" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/gmail/nemo31/nn/tests/InvalidLogin.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="27" column="66" selection-start-line="27" selection-start-column="66" selection-end-line="27" selection-end-column="66" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/gmail/nemo31/nn/tests/LanguageChangingTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="434">
-          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/gmail/nemo31/nn/tests/LoginTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -860,30 +727,74 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/gmail/nemo31/nn/pages/LoginPage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
+        <state relative-caret-position="408">
           <caret line="27" column="31" selection-start-line="27" selection-start-column="31" selection-end-line="27" selection-end-column="31" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/gmail/nemo31/nn/pages/MainPage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="182">
+        <state relative-caret-position="1190">
           <caret line="82" column="27" selection-start-line="82" selection-start-column="27" selection-end-line="82" selection-end-column="27" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#2762#2763#0" expanded="true" />
-            <element signature="e#2796#2797#0" expanded="true" />
-          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1683">
+          <caret line="99" selection-start-line="99" selection-end-line="99" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/gmail/nemo31/nn/pages/LocationPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="34" column="37" selection-start-line="34" selection-start-column="37" selection-end-line="34" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/gmail/nemo31/nn/tests/CompareTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="32" selection-start-line="32" selection-end-line="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/gmail/nemo31/nn/tests/LanguageChangingTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="22" column="47" lean-forward="true" selection-start-line="22" selection-start-column="47" selection-end-line="22" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/gmail/nemo31/nn/tests/NavigationTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="34" column="45" selection-start-line="34" selection-start-column="45" selection-end-line="34" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/gmail/nemo31/nn/tests/InvalidLogin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="35" column="34" selection-start-line="35" selection-start-column="34" selection-end-line="35" selection-end-column="34" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/gmail/nemo31/nn/tests/LogoutTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="25" lean-forward="true" selection-start-line="22" selection-start-column="25" selection-end-line="22" selection-end-column="25" />
+        <state relative-caret-position="289">
+          <caret line="23" column="27" selection-start-line="23" selection-start-column="27" selection-end-line="23" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/gmail/nemo31/nn/tests/LoginTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="71">
+          <caret line="18" column="42" selection-start-line="18" selection-start-column="42" selection-end-line="18" selection-end-column="42" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

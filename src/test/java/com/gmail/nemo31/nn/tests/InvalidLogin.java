@@ -3,6 +3,7 @@ package com.gmail.nemo31.nn.tests;
 import com.gmail.nemo31.nn.pages.LoginPage;
 import com.gmail.nemo31.nn.pages.MailMainPage;
 import com.gmail.nemo31.nn.pages.MainPage;
+import io.qameta.allure.Feature;
 import org.testng.Assert;
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Test;
@@ -19,7 +20,8 @@ public class InvalidLogin extends BaseTest {
         mailMainPage = new MailMainPage(driver);
     }
 
-    @Test
+    @Test(priority = 1,description = "Invalid login scenario with wrong username")
+    @Feature("Login tests")
     public void invalidLogin(){
         mainPage.clickMailButton();
         loginPage.setLogin("NoAutotestUser");
@@ -29,7 +31,8 @@ public class InvalidLogin extends BaseTest {
         Assert.assertEquals(expectedLogin,"Такого аккаунта нет");
     }
 
-    @Test
+    @Test(priority = 1,description = "Invalid login scenario with wrong password")
+    @Feature("Login tests")
     public void invalidPassword(){
         driver.get("https://www.yandex.by");
         mainPage.clickMailButton();

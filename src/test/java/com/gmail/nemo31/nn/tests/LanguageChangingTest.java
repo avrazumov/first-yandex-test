@@ -16,7 +16,7 @@ public class LanguageChangingTest extends BaseTest {
         languageSettingsPage = new LanguageSettingsPage(driver);
     }
 
-    @Test
+    @Test(priority = 2,description = "Language changing test")
     public void languageChanging(){
         mainPage.clickChangeLanguageButton();
         languageSettingsPage.selectEnglishLanguage();
